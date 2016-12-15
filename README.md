@@ -7,6 +7,7 @@
 
 
 ![image](https://github.com/simpleant/ClipPictureLib/blob/master/ezgif.com-d808b1feb4.gif)
+
 使用方法：
 1：项目使用gradle构建
 2：在主项目引入时可以直接添加modle，选择gradle项目
