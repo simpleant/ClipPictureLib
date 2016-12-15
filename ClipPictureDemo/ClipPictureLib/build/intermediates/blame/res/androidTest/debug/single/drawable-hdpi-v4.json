@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\WorkSpace\\idea\\AskStack\\clipPictureLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\WorkSpace\\idea\\AskStack\\clipPictureLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\WorkSpace\\idea\\ClipPicture\\ClipPictureDemo\\ClipPictureLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\WorkSpace\\idea\\ClipPicture\\ClipPictureDemo\\ClipPictureLib\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    }
+]
